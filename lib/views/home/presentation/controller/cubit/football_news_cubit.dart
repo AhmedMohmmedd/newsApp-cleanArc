@@ -23,4 +23,5 @@ class FootballNewsCubit extends Cubit<FootballNewsState> {
       },
     );
   }
+  
 }
